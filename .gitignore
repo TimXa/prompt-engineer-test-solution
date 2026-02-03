@@ -71,3 +71,6 @@ temp/
 # API Keys
 *.key
 secrets/
+.env
+__pycache__/
+*.pyc
